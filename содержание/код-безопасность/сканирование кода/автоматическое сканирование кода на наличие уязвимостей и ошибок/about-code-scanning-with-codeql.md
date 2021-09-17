@@ -3,7 +3,7 @@ title: About code scanning with CodeQL
 shortTitle: Code scanning with CodeQL
 intro: 'You can use {% data variables.product.prodname_codeql %} to identify vulnerabilities and errors in your code. The results are shown as {% data variables.product.prodname_code_scanning %} alerts in {% data variables.product.prodname_dotcom %}.'
 product: '{% data reusables.gated-features.code-scanning %}'
-redirect_from:
+redirect_from:gh repo clone Simyl9nt24/desktop-tutorial
   - /code-security/secure-coding/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning-with-codeql
 versions:
   fpt: '*'
